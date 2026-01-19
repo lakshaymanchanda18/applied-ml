@@ -1,2 +1,3 @@
-# applied-ml-linear-regression
-Applied Machine Learning assignment implementing Simple Linear Regression on a Kaggle dataset using Python, Pandas, Matplotlib, and Scikit-learn. Includes data loading, visualization, model training, prediction, and regression line plotting.
+# applied-ml
+Applied Machine Learning Course which includes multiple topics and projects on Machine Learning and its concepts.
+
